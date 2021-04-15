@@ -13,4 +13,5 @@ Modifier le titre des MyCourses par le nom du projet sur gandalf.epitech.eu
 3. Recherchez et sélectionnez le dossier, ou le .zip de l'application ou de l'extension.
 
 <img src="https://raw.githubusercontent.com/leomarcel/Gandalf-MyCourses/main/chrome/logo.png" width="100"/>
+<img src="https://raw.githubusercontent.com/leomarcel/Gandalf-MyCourses/main/chrome/Screenshot.png"/>
 
