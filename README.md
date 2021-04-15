@@ -12,5 +12,5 @@ Modifier le titre des MyCourses par le nom du projet sur gandalf.epitech.eu
 2. Cliquez sur Charger un module complétementaire temporaire...
 3. Recherchez et sélectionnez le dossier, ou le .zip de l'application ou de l'extension.
 
-<img src="https://github.com/leomarcel/Gandalf-NameProject-Extension/blob/main/chrome/logo.png?raw=true" width="100"/>
+<img src="https://raw.githubusercontent.com/leomarcel/Gandalf-MyCourses/main/chrome/logo.png" width="100"/>
 
