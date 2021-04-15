@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Gandalf MyCourses",
+  "version": "0.0.1",
+  "description": "Modifier le titre des courses par le nom du projet sur gandalf.epitech.eu",
+  "icons": {
+    "64": "logo.png"
+  },
+  "background": {
+    "scripts": ["inject.js", "background.js"]
+  },
+  "applications": {
+    "gecko": {
+      "id": "leo.marcel@epitech.eu",
+      "strict_min_version": "57.0"
+    }
+  },
+  "permissions": ["https://gandalf.epitech.eu/*"],
+  "browser_action": {
+    "default_title": "Gandalf MyCourses",
+    "default_icon": "logo.png"
+  }
+}
